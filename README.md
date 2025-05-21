@@ -28,4 +28,4 @@ Ce projet web simple affiche les prévisions météo en temps réel pour une vil
 
 1. **Cloner ce dépôt**
    ```bash
-   git clone https://github.com/ton-nom-utilisateur/nom-du-repo.git
+   git clone https://github.com/douaa-dot/Meteo
